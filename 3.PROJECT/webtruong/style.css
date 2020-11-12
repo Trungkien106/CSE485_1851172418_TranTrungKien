@@ -1,0 +1,82 @@
+/* nên phần logo */
+
+.bg-logo {
+    background-color: blue;
+}
+/* logo truong */
+.logo-school{
+    border:1px solid red;
+    
+  
+}
+/* thanh cong cu */
+.navbask {
+    
+    font-size: 13.1px; 
+    color: black;
+    border-right: 10px;
+}
+
+/* thanh nền  dưới logo*/
+.navlg{
+    
+    border:1px solid blue;
+    border-width: 3px;
+}
+
+
+
+/* Phần thân */
+
+/* phần slick */
+.page-wrapper .post-wrapper {
+  width:84%;
+  height:350px;
+  margin: 0px auto ;
+    /* border:1px dashed red; */
+}
+.page-wrapper .post-wrapper .post{
+  height:350px;
+  width: 300px;
+  display: inline-block;
+   background-color:#05f7ff;
+
+}
+
+
+.post-wrapper .post .slider-image {
+
+
+}
+  
+ /* .next {
+    position:absolute;
+    top: 50%;
+    right: 30px;
+    font-size:2em;
+    color: #006669;
+    cursor: pointer;
+  }
+  .prev {
+    position:absolute;
+    top: 50%;
+    left: 30px;
+    font-size: 2em;
+    color:#006669;
+    cursor: pointer;
+  } */
+ /* .post-wrapper {
+   
+    height: 350px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+   
+  }
+  
+ 
+  
+
+
+
+

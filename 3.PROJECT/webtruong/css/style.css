@@ -1,0 +1,115 @@
+/* nên phần logo */
+
+.bg-img {
+   /* border:1px solid blue; */
+}
+/* logo truong */
+.logo-school{
+    /* border:1px solid red; */
+}
+/* thanh cong cu */
+.navbask {
+    
+    font-size: 13.1px; 
+    
+    
+}
+
+/* thanh nền  dưới logo*/
+.navlg{
+    
+    border:1px solid blue;
+    border-width: 3px;
+}
+
+
+
+/* Phần thân */
+.page-wrapper .post-wrapper {
+   
+    /* border:1px dashed red; */
+    height: 350px;
+    margin:0px auto;
+    /* overflow: hidden; */
+}
+.page-wrapper .post-wrapper .post{
+    background-color: black;
+    display: inline-block;
+   /* border: 1px solid blue; */
+  
+}
+
+
+.post-wrapper .post .slider-image {
+  /* border:1px solid red; */
+    width: 100%;
+    height: 100px;
+
+}
+  
+ /* .next {
+    position:absolute;
+    top: 50%;
+    right: 30px;
+    font-size:2em;
+    color: #006669;
+    cursor: pointer;
+  }
+  .prev {
+    position:absolute;
+    top: 50%;
+    left: 30px;
+    font-size: 2em;
+    color:#006669;
+    cursor: pointer;
+  } */
+ /* .post-wrapper {
+   
+    height: 350px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+   
+  }
+  
+ /* Phần TIN TỨC MỚI  */
+
+.lates-news .tile-news {
+     text-align:center;
+     margin: 20px auto;
+     
+}
+.lates-news .content-news{
+    width: 65%;
+    height: 350px;
+    margin:0px auto;
+    /* border: 1px dashed red; */
+   
+}
+.lates-news .content-news .post-news{
+    /* height: 200px;
+    width: 200px;
+    
+    */
+    color: #f1f1f1;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+    
+   
+}
+.lates-news .content-news .post-news .new-image{
+    width: 100%;
+   padding:10px;
+   height: 200px;
+}
+.lates-news .content-news .post-news .post-info{
+    height: 70px;
+    padding: 0px 5px;
+    width:250px;
+    text-align: center;
+}
+
+
