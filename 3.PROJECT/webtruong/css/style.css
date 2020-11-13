@@ -1,25 +1,21 @@
-/* nên phần logo */
 
-.bg-img {
-   /* border:1px solid blue; */
-}
-/* logo truong */
-.logo-school{
-    /* border:1px solid red; */
-}
 /* thanh cong cu */
 .navbask {  
     font-size: 13.1px; 
 }
 
 /* thanh nền  dưới logo*/
-.navlg{
-    
+.navlg{ 
     border:1px solid blue;
     border-width: 0.2em;
 }
-
-
+.header-search {
+    left: 290px;
+    top: 30px;
+}
+/* .header-color-text{
+    color: #000;
+} */
 
 /* Phần thân */
 /* Phần  carol */
@@ -40,24 +36,13 @@
     width: 75%;
    height: 260px;
     margin:0px auto;
-    border: 1px dashed red;
-   /* display: inline-block; */
    display: flex;
 }
 .lates-news .content-news .post-news{
-    /* height: 200px;
-    width: 200px;
-    
-    */
     color: #f1f1f1;
     width: 250px;
     height: 260px;
-    line-height: 40px;
-    margin-left: -5px;
-    border:1px dashed blue;
     margin-left: 30px;
-   
- 
 }
 .lates-news .content-news .post-news .new-image{
     width: 100%;
@@ -68,7 +53,33 @@
     height: 70px;
     padding: 0px 5px;
     width:250px;
-    /* text-align: center; */
+    
+}
+
+.post-info .from-post-info{
+    display: none;
+    font-size: 10px;
+}
+
+.post-info .from-post-info .from-post p {
+    margin-top: .1em;
+    margin-bottom: .1em;
+}
+/* thanh xem thêm  */
+.navlg-seemore{
+    margin-top: 10px;
+    border-width: 1em;
+    background-color: blue;
+    text-align: center;
+    color:black;
+}
+.navlg-seemore .color{
+    color:white;
 }
 
 
+/* Phần cuối */
+.background-footer {
+    background-image:url("images/anhtruong.png");
+    border: 1px solid red;
+}

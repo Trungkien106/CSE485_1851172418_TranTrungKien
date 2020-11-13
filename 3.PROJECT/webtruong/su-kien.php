@@ -27,26 +27,7 @@
         <?php
             include("header/includes/logo-header.php");
         ?>
-       
         <?php
             include("header/includes/nav-header.php");
            
         ?>
-         <!-- Phần thân -->
-       <?php
-            
-            include("middle/carosel.php");
-        ?>
-         <?php
-            include("middle/lates-news.php");
-        ?>
-        <div class="navlg-seemore"> 
-             <a href="tin-tuc.php" target="_self" class="button primary is-large lowercase reveal-icon background-trans mb-0 color">
-             <span>Xem thêm tin tức</span>
-             <i class="fas fa-angle-double-right"></i></a>
-        </div>
-        <?php
-            include("footer/footer.php");
-        ?>
-    </body>
-</html>

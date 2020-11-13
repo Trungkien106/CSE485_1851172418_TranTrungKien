@@ -11,15 +11,15 @@
     <a class="nav-link active" href="index.php"><i class="fa fa-home"></i></a>
   </li>
 
-
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GIỚI THIỆU</a>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu header-color-text">
       <a class="dropdown-item" href="function-nav/loi-chao-mung.php">Lời chào mừng </a>
       <a class="dropdown-item" href="#">Tổ chức</a>
       <a class="dropdown-item" href="#">Hợp tác liên kết</a>
     </div>
   </li>
+
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NGHIÊN CỨU KHOA HỌC</a>
     <div class="dropdown-menu">
@@ -29,6 +29,7 @@
       <a class="dropdown-item" href="#">Các phòng thí nghiệm</a>
     </div>
   </li>
+
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">ĐÀO TẠO</a>
     <div class="dropdown-menu">
@@ -40,6 +41,7 @@
       <a class="dropdown-item" href="#">Đề cương môn học</a>
     </div>
   </li>
+
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">BỘ MÔN-TRUNG TÂM</a>
     <div class="dropdown-menu">
@@ -52,6 +54,7 @@
       <a class="dropdown-item" href="#">Trung tâm tin học</a>
     </div>
   </li>
+
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">SINH VIÊN</a>
     <div class="dropdown-menu">
@@ -61,6 +64,7 @@
       <a class="dropdown-item" href="#">Luận văn tốt nghiệp</a>
     </div>
   </li>
+
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">TIN TỨC </a>
     <div class="dropdown-menu">
@@ -68,6 +72,7 @@
       <a class="dropdown-item" href="#">CSE trên báo</a>
     </div>
   </li>
+
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">THÔNG BÁO</a>
     <div class="dropdown-menu">
@@ -79,11 +84,15 @@
       <a class="dropdown-item" href="#">Thông báo khác</a>
     </div>
   </li>
+
   <li class="nav-item dropdown">
   <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">LIÊN HỆ</a>
    </li>
+   
    <li class="nav-item dropdown ">
   <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">DIỄN ĐÀN</a>
+  <div class="dropdown-menu">
+      <a class="dropdown-item" href="diendan/index.php">Diễn đàn</a>
     </li>
-  </div>
+    </div>
 </div>
