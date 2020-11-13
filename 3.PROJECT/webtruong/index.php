@@ -36,8 +36,8 @@
          <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.js"></script>
          <script src="js/slick.js"></script>  
        <?php
-            include("middle/post-wrapper.php");
-           
+            
+            include("middle/carosel.php");
         ?>
          <?php
             include("middle/lates-news.php");

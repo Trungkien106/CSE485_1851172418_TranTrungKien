@@ -14,10 +14,12 @@
             <h4><a href="single.html">One day your life will flash before your eyes</a></h4>
          
         </div>
+        </div>
           <div class="post-news">
           <img src="middle/images/truongthuyloi.jpg" alt="" class="new-image">
           <div class="post-info">
             <h4><a href="single.html">One day your life will flash before your eyes</a></h4>
+          </div>
           </div>
 
           <div class="post-news">
@@ -29,3 +31,6 @@
     </div>
 
 </div>
+
+
+
